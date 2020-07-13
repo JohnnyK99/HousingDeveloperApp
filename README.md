@@ -7,7 +7,7 @@ Manage your housing developments, buildings, apartments and their tenants.
 All user interaction is performed through the console.
 
 
-###User requirements:
+### User requirements:
 - a developer may own any number of housing developments 
 - every development may consist of multiple buildings
 - every building has a finite number of apartments
